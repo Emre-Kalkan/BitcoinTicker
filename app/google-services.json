@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811500994195",
+    "project_id": "bitcoin-ticker-544f6",
+    "storage_bucket": "bitcoin-ticker-544f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811500994195:android:663b6125c08c7ba9349766",
+        "android_client_info": {
+          "package_name": "com.emrekalkan.bitcointicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811500994195-rph6k9in3k33192ec634q85k6o9thsq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheAVtwlmCX3QjOopoktEU_hx5AP4xEE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811500994195-rph6k9in3k33192ec634q85k6o9thsq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
